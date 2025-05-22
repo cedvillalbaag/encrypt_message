@@ -1,5 +1,10 @@
-# encrypt_message
+# Encrypt_Message - Portfolio Project App
 
-#Portfolio #Python
+#Portfolio #Python # Encrypt
 
-Aplicacion escritorio para encriptar / desencriptar mensajes de texto.
+This is a simple desktop application for encrypting and decrypting messages using Python and the Tkinter graphical library. It allows you to protect your messages or decrypt encrypted ones.
+
+### Features:   
+- Message Encryption: Encrypt your texts using an encryption algorithm.
+- Message Decryption: Decode previously encrypted messages.
+- Intuitive Graphical Interface: Easy to use thanks to its Tkinter design.
